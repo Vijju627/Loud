@@ -1,0 +1,1 @@
+Put your own audio file in this folder and name it sound.mp3, or change AUDIO_FILE in .env.

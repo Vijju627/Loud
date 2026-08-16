@@ -1,0 +1,18 @@
+{
+  "name": "dual-discord-voice-bot",
+  "version": "1.0.0",
+  "description": "Two Discord bots in one Node.js project: join VC together and loop a supplied audio file.",
+  "main": "src/index.js",
+  "scripts": {
+    "start": "node src/index.js"
+  },
+  "engines": {
+    "node": ">=20"
+  },
+  "dependencies": {
+    "@discordjs/voice": "^0.18.0",
+    "discord.js": "^14.21.0",
+    "dotenv": "^17.2.1",
+    "ffmpeg-static": "^5.2.0"
+  }
+}
