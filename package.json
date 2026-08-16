@@ -4,7 +4,7 @@
   "description": "Two Discord bots in one Node.js project: join VC together and loop a supplied audio file.",
   "main": "src/index.js",
   "scripts": {
-    "start": "node src/index.js"
+    "start": "node index.js"
   },
   "engines": {
     "node": ">=20"
